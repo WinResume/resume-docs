@@ -45,6 +45,10 @@ download:
 
 男 | 27岁 | 本科 | 浙江杭州 | 5年经验
 
+开源以及技术社区资深用户，csdn博客总阅读量 140W+；Github开源项目 1.7K star
+
+<a href="https://github.com/WinterChenS"><img align='right' src="https://github-readme-stats.vercel.app/api?username=WinterChenS&show_icons=true"></a>
+
 ## <i class="fa fa-coffee"></i> 求职意向
 
 Java高级开发工程师 | 浙江杭州 | 20K-25K | 1个月内到岗
