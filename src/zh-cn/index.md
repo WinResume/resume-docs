@@ -25,7 +25,7 @@ contact:
 download:
   title: 下载PDF版
   icon: fas fa-download fa-fw
-  url: http://img.winterchen.com/Java%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88-%E9%99%88%E5%86%AC%E5%8D%8E-15258800630.pdf
+  url: http://img.winterchen.com/Java%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88-%E9%99%88%E5%86%AC%E5%8D%8E-15258800630-v1.0.pdf
 ---
 
 {% raw %}
