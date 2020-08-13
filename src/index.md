@@ -47,7 +47,7 @@ download:
 
 开源以及技术社区资深用户，csdn博客总阅读量 140W+；Github开源项目 1.7K star
 
-<a href="https://github.com/WinterChenS"><img align='right' src="https://github-readme-stats.vercel.app/api?username=WinterChenS&show_icons=true"></a>
+<a href="https://github.com/WinterChenS"><img src="https://github-readme-stats.vercel.app/api?username=WinterChenS&show_icons=true"></a>
 
 ## <i class="fa fa-coffee"></i> 求职意向
 
