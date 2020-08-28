@@ -4,7 +4,7 @@
 language: zh-CN
 
 shortcut_icon: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
-favicon: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+favicon: http://img.winterchen.com/favicon.png #https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
 avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
 
 # 主题
