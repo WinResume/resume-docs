@@ -19,7 +19,7 @@ contact:
     url: mailto:i@winterchen.com
   # 电话号码
   - icon: fas fa-phone-alt
-    text: 15258800530
+    text: 15258800630
     url: tel:15258800630
 # PDF下载链接
 download:
